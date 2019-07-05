@@ -43,8 +43,6 @@ git@github.com:RebeccaHanjw/weapp-wechat-zhihu.git
 ![](images/navigation.gif)
 
 
-##### Demo 用于学习交流, 转载请注明出处
-
 
 
 

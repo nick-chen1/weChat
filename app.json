@@ -1,4 +1,4 @@
-{
+﻿{
   "pages": [
     "pages/index/index",
     "pages/discovery/discovery",
@@ -14,7 +14,7 @@
     "navigationBarTitleText": "知乎",
     "navigationBarTextStyle": "white",
     "enablePullDownRefresh": true
-  },
+  }, 
   "tabBar": {
     "color": "#626567",
     "selectedColor": "#2A8CE5",
